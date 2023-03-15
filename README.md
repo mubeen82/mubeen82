@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mubeen82
-- 👀 I’m interested in Blockchain, Security & Data Science
-- 🌱 I’m currently learning Blockchain & Security
+- 👀 I’m interested in Blockchain, Cyber Security & Data Science
+- 🌱 I’m currently learning Blockchain & Cyber Security
 - 💞️ I’m looking to collaborate on Bloackchain projects
 - 📫 How to reach me mubeen.rh@gmail.com
 
